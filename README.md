@@ -13,7 +13,8 @@ Supported exchanges:
 
 1. Install the packages: `pipenv install`
 2. Input your exchange API keys into the `secrets.json` file
-3. Run the script: `python main.py`
+3. Start shell: `pipenv shell`
+4. Run the script: `python main.py`
 
 ### Configuration
 
